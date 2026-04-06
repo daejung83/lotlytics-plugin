@@ -1,14 +1,22 @@
 {
   "name": "lotlytics-marketplace",
+  "description": "Lotlytics real estate market intelligence plugin for Claude Code",
   "owner": {
-    "name": "Lotlytics"
+    "name": "Lotlytics",
+    "email": "support@lotlytics.us"
   },
   "plugins": [
     {
       "name": "lotlytics",
-      "source": ".",
       "description": "Real estate market intelligence — investment scores, rental yields, and market data for 895 US metros. Free for top 50 markets.",
-      "homepage": "https://lotlytics.us"
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Lotlytics",
+        "email": "support@lotlytics.us"
+      },
+      "homepage": "https://lotlytics.us",
+      "category": "data"
     }
   ]
 }
