@@ -1,0 +1,6 @@
+{
+  "lotlytics": {
+    "type": "sse",
+    "url": "https://lotlytics-mcp-production.up.railway.app/sse"
+  }
+}

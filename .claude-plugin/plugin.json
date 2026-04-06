@@ -1,0 +1,11 @@
+{
+  "name": "lotlytics",
+  "description": "Real estate market intelligence — investment scores, rental yields, and market data for 895 US metros. Free for top 50 markets.",
+  "version": "1.0.0",
+  "homepage": "https://lotlytics.us",
+  "repository": "https://github.com/daejung83/lotlytics-plugin",
+  "author": {
+    "name": "Lotlytics"
+  },
+  "keywords": ["real-estate", "investing", "housing-market", "rental-yield", "market-data"]
+}
