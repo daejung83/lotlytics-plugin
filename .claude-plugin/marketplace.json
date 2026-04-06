@@ -1,3 +1,14 @@
 {
-  "plugins": ["lotlytics"]
+  "name": "lotlytics-marketplace",
+  "owner": {
+    "name": "Lotlytics"
+  },
+  "plugins": [
+    {
+      "name": "lotlytics",
+      "source": ".",
+      "description": "Real estate market intelligence — investment scores, rental yields, and market data for 895 US metros. Free for top 50 markets.",
+      "homepage": "https://lotlytics.us"
+    }
+  ]
 }
